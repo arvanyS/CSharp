@@ -1,0 +1,12 @@
+CREATE DATABASE GAME;
+
+CREATE TABLE PLAY(
+	ID int,
+	GAME varchar(100),
+	STARTING_DATE date,
+	ENDING_DATE date,
+	PLAYING_HOURS smallint,
+	PLAYING_MINUTES tinyint,
+	[STATUS] bit,
+	PATH varchar(MAX)
+)

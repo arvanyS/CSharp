@@ -1,0 +1,10 @@
+D:\playtime_project\playtime\playtime\bin\Debug\playtime.exe.config
+D:\playtime_project\playtime\playtime\bin\Debug\playtime.exe
+D:\playtime_project\playtime\playtime\bin\Debug\playtime.pdb
+D:\playtime_project\playtime\playtime\obj\Debug\playtime.csproj.AssemblyReference.cache
+D:\playtime_project\playtime\playtime\obj\Debug\playtime.Properties.Resources.resources
+D:\playtime_project\playtime\playtime\obj\Debug\playtime.csproj.GenerateResource.cache
+D:\playtime_project\playtime\playtime\obj\Debug\playtime.csproj.CoreCompileInputs.cache
+D:\playtime_project\playtime\playtime\obj\Debug\playtime.exe
+D:\playtime_project\playtime\playtime\obj\Debug\playtime.pdb
+D:\playtime_project\playtime\playtime\obj\Debug\playtime.Playtime.resources
