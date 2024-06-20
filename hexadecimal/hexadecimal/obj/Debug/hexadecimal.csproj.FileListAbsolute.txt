@@ -1,0 +1,10 @@
+D:\CODING\C#\hexadecimal\hexadecimal\bin\Debug\hexadecimal.exe.config
+D:\CODING\C#\hexadecimal\hexadecimal\bin\Debug\hexadecimal.exe
+D:\CODING\C#\hexadecimal\hexadecimal\bin\Debug\hexadecimal.pdb
+D:\CODING\C#\hexadecimal\hexadecimal\obj\Debug\hexadecimal.csproj.AssemblyReference.cache
+D:\CODING\C#\hexadecimal\hexadecimal\obj\Debug\hexadecimal.Form1.resources
+D:\CODING\C#\hexadecimal\hexadecimal\obj\Debug\hexadecimal.Properties.Resources.resources
+D:\CODING\C#\hexadecimal\hexadecimal\obj\Debug\hexadecimal.csproj.GenerateResource.cache
+D:\CODING\C#\hexadecimal\hexadecimal\obj\Debug\hexadecimal.csproj.CoreCompileInputs.cache
+D:\CODING\C#\hexadecimal\hexadecimal\obj\Debug\hexadecimal.exe
+D:\CODING\C#\hexadecimal\hexadecimal\obj\Debug\hexadecimal.pdb
